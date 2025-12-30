@@ -3,13 +3,13 @@ Sistem monitoring banjir ini merupakan solusi berbasis IoT yang menggunakan ESP3
 
 Data diklasifikasikan ke dalam empat tingkatan status: aman, waspada, bahaya, atau kering. Hasil pengukuran ditampilkan langsung pada layar LCD dan dikirimkan ke aplikasi berbasis internet untuk pemantauan jarak jauh secara real-time. Sebagai fitur keamanan tambahan, sistem dilengkapi dengan indikator visual berupa LED tiga warna (hijau, kuning, merah) untuk menunjukkan tingkatan risiko, serta buzzer yang berfungsi sebagai alarm peringatan dini saat air mencapai level berbahaya, sehingga memungkinkan tindakan mitigasi yang cepat bagi pengguna.
 
+https://wokwi.com/projects/451669207655698433
+
 ### **Skema Rangkaian:**
 <img width="808" height="708" alt="image" src="https://github.com/user-attachments/assets/01d94e7e-b36d-48a0-bd84-01095877cca5" />
 
 ### **Blok Diagram:**
 <img width="512" height="359" alt="image" src="https://github.com/user-attachments/assets/84e60cdb-908d-4c08-8bff-90cd2bbced98" />
-
-https://wokwi.com/projects/451669207655698433
 
 ### **Percobaan Simulasi dan Tampilan Dashboard Blynk:**
 <img width="1919" height="963" alt="Screenshot 2025-12-29 225329" src="https://github.com/user-attachments/assets/8f7f7741-11fa-4bf1-9de2-affc1cfc9bc0" />
