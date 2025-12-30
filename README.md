@@ -5,6 +5,6 @@ Data diklasifikasikan ke dalam empat tingkatan status: aman, waspada, bahaya, at
 
 https://wokwi.com/projects/451669207655698433
 
-Hasil Simulasi dan Dokumentasi:
+### **Hasil Simulasi dan Dokumentasi:**
 <img width="1919" height="963" alt="Screenshot 2025-12-29 225329" src="https://github.com/user-attachments/assets/8f7f7741-11fa-4bf1-9de2-affc1cfc9bc0" />
 <img width="1659" height="914" alt="Screenshot 2025-12-29 225257" src="https://github.com/user-attachments/assets/5990fbc0-7250-4a31-bf91-83d0dcf489ac" />
