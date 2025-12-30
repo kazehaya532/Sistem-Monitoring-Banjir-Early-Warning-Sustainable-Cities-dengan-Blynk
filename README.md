@@ -1,0 +1,2 @@
+# Sistem-Monitoring-Banjir-Early-Warning-Sustainable-Cities-dengan-Blynk
+Sistem monitoring banjir berbasis ESP32 ini bekerja menggunakan sensor ultrasonik untuk mengukur ketinggian air secara real-time. Data diproses menjadi status Aman, Waspada, atau Bahaya yang ditampilkan pada LCD dan aplikasi IoT. Sistem dilengkapi LED berwarna dan buzzer sebagai alarm peringatan dini saat air mencapai level bahaya atau kritis.
